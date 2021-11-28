@@ -168,7 +168,8 @@ p.withPhoto {
   margin: 0;
   padding: 3vh 5vw;
   float: left;
-  max-width: 48vw;
+  width: 48vw;
+  
 }
 
 .figure {
