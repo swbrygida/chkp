@@ -25,11 +25,11 @@
 
 
 
-<p><strong>1.<a href="http://swbrygida.pl/sw-brygida-i-jej-proroctwo/">Święta Brygida i&nbsp;jej proroctwo</a></strong></p>
+<p><strong>1.<a href="http://swbrygida.pl/proroctwo/">Święta Brygida i&nbsp;jej proroctwo</a></strong></p>
 
 
 
-<p><strong>2.<a href="http://swbrygida.pl/zwyciestwo-jagielly-w-bitwie-pod-grunwaldem/">Zwycięstwo Jagiełły w&nbsp;bitwie pod&nbsp;Grunwaldem</a></strong></p>
+<p><strong>2.<a href="http://swbrygida.pl/zwyciestwo/">Zwycięstwo Jagiełły w&nbsp;bitwie pod&nbsp;Grunwaldem</a></strong></p>
 
 
 
@@ -37,23 +37,23 @@
 
 
 
-<p>– <a href="http://swbrygida.pl/architektura/faza-i-kaplica-pw-nmp-sw-barbary-i-sw-zofii-z-1396-r/">faza I&nbsp;– Kaplica pw.&nbsp;NMP, św.&nbsp;Barbary i&nbsp;św.&nbsp;Zofii z&nbsp;1396 r.</a></p>
+<p>– <a href="http://swbrygida.pl/architektura-faza-1/">faza I&nbsp;– Kaplica pw.&nbsp;NMP, św.&nbsp;Barbary i&nbsp;św.&nbsp;Zofii z&nbsp;1396 r.</a></p>
 
 
 
-<p><a href="http://swbrygida.pl/architektura/faza-ii-pomnik-wdziecznosci-krola-wladyslawa-jagielly-za-grunwaldzkie-zwyciestwo/">– faza II – Pomnik wdzięczności króla Władysława Jagiełły za&nbsp;grunwaldzkie zwycięstwo</a></p>
+<p><a href="http://swbrygida.pl/architektura-faza-2/">– faza II – Pomnik wdzięczności króla Władysława Jagiełły za&nbsp;grunwaldzkie zwycięstwo</a></p>
 
 
 
-<p>– <a href="http://swbrygida.pl/architektura/faza-iii-przebudowa-swiatyni-ok-1470-1480/">faza III – Przebudowa świątyni ok. 1470 – 1480</a></p>
+<p>– <a href="http://swbrygida.pl/architektura-faza-3/">faza III – Przebudowa świątyni ok. 1470 – 1480</a></p>
 
 
 
-<p>– <a href="http://swbrygida.pl/architektura/faza-iv-po-1500-r-do-ok-1530/">faza IV – po&nbsp;1500 r. do&nbsp;ok. 1530</a></p>
+<p>– <a href="http://swbrygida.pl/architektura-faza-4/">faza IV – po&nbsp;1500 r. do&nbsp;ok. 1530</a></p>
 
 
 
-<p>– <a href="http://swbrygida.pl/architektura/faza-v-wspolczesna-bryla-kosciola/">faza V – współczesna bryła kościoła</a></p>
+<p>– <a href="http://swbrygida.pl/architektura-faza-5/">faza V – współczesna bryła kościoła</a></p>
 
 
 
@@ -61,43 +61,43 @@
 
 
 
-<p>– <a href="http://swbrygida.pl/historia/powstanie-i-budowa-kosciola/">powstanie i&nbsp;budowa kościoła</a>,</p>
+<p>– <a href="http://swbrygida.pl/historia-powstanie-kosciola/">powstanie i&nbsp;budowa kościoła</a>,</p>
 
 
 
-<p>– <a href="http://swbrygida.pl/historia/pomnik-wdziecznosci-za-zwyciestwo-pod-grunwaldem/">pomnik wdzięczności za&nbsp;zwycięstwo pod&nbsp;Grunwaldem</a></p>
+<p>– <a href="http://swbrygida.pl/historia-pomnik-wdziecznosci/">pomnik wdzięczności za&nbsp;zwycięstwo pod&nbsp;Grunwaldem</a></p>
 
 
 
-<p>– <a href="http://swbrygida.pl/historia/okres-siostr-brygidek/">okres Sióstr Brygidek</a>,</p>
+<p>– <a href="http://swbrygida.pl/historia-okres-siostr-brygidek/">okres Sióstr Brygidek</a>,</p>
 
 
 
-<p>– <a href="http://swbrygida.pl/historia/okres-siostr-wizytek/">okres Sióstr Wizytek</a>,</p>
+<p>– <a href="http://swbrygida.pl/historia-okres-siostr-wizytek/">okres Sióstr Wizytek</a>,</p>
 
 
 
-<p>– <a href="http://swbrygida.pl/historia/koniec-xix-wieku-i-pierwsza-polowa-xx-wieku/">koniec XIX wieku i&nbsp;pierwsza połowa XX wieku</a></p>
+<p>– <a href="http://swbrygida.pl/historia-koniec-wieku/">koniec XIX wieku i&nbsp;pierwsza połowa XX wieku</a></p>
 
 
 
-<p>– <a href="http://swbrygida.pl/historia/czasy-wspolczesne-lubelskie-sanktuarium-pamieci-narodowej/">czasy współczesne – Lubelskie Sanktuarium Pamięci Narodowej</a><br></p>
+<p>– <a href="http://swbrygida.pl/historia-czasy-wspolczesne/">czasy współczesne – Lubelskie Sanktuarium Pamięci Narodowej</a><br></p>
 
 
 
-<p>– <a href="http://swbrygida.pl/historia/wielka-renowacja/">wielka renowacja</a>:</p>
+<p>– <a href="http://swbrygida.pl/historia-wielka-renowacja/">wielka renowacja</a>:</p>
 
 
 
-<p><a href="http://swbrygida.pl/historia/ekspozycja-historyczna/">ekspozycja historyczna</a></p>
+<p><a href="http://swbrygida.pl/historia-ekspozycja-historyczna/">ekspozycja historyczna</a></p>
 
 
 
-<p><a href="http://swbrygida.pl/historia/ekspozycja-archeologiczna/">ekspozycja archeologiczna</a></p>
+<p><a href="http://swbrygida.pl/historia-ekspozycja-archeologiczna/">ekspozycja archeologiczna</a></p>
 
 
 
-<p><a href="http://swbrygida.pl/historia/ekspozycja-numizmatyczna/">ekspozycja numizmatyczna</a></p>
+<p><a href="http://swbrygida.pl/historia-ekspozycja-numizmatyczna/">ekspozycja numizmatyczna</a></p>
 
 
 
@@ -105,21 +105,23 @@
 
 
 
-<p>– <a href="http://swbrygida.pl/zabytki/okres-siostr-brygidek/">okres Sióstr Brygidek</a>,</p>
+<p>– <a href="http://swbrygida.pl/zabytki-okres-siostr-brygidek/">okres Sióstr Brygidek</a>,</p>
 
 
 
-<p>– <a href="http://swbrygida.pl/zabytki/okres-siostr-wizytek/">okres Sióstr Wizytek</a>,</p>
+<p>– <a href="http://swbrygida.pl/zabytki-okres-siostr-wizytek/">okres Sióstr Wizytek</a>,</p>
 
 
 
-<p><strong>6. <a href="http://swbrygida.pl/kalendarium-najwazniejszych-wydarzen/">Kalendarium najważniejszych wydarzeń</a></strong></p>
+<p><strong>6. <a href="http://swbrygida.pl/kalendarium/">Kalendarium najważniejszych wydarzeń</a></strong></p>
 
 
 
-<p><strong>7. <a href="http://swbrygida.pl/rektorzy-i-kaplani-zwiazani-z-kosciolem-pobrygidkowskim/">Rektorzy i&nbsp;kapłani związani z&nbsp;Kościołem Pobrygidkowskim</a></strong></p>
+<p><strong>7. <a href="http://swbrygida.pl/rektorzy/">Rektorzy i&nbsp;kapłani związani z&nbsp;Kościołem Pobrygidkowskim</a></strong></p>
 
+<p>Cyfrowa historia Kościoła Rektoralnego pw. Wniebowzięcia NMP Zwycięskiej w Lublinie - dofinansowanie: </p>
 
+<img src="../assets/fotosy/mkidn.png" alt="dfvfv"  style="max-width: 45vw; margin: 0 0 0 25vw;">
 
 
 
