@@ -2,8 +2,8 @@
   <Layout>
     <section>
 
+      <h3>Model czwartej fazy z XVI wieku</h3>
   <div class="figure">
-    <h3>Rysunek str. 54 – model czwartej fazy – zeszyt nr 7</h3>
   <img src="../assets/fotosy/faza4b.webp" />
   </div>
   </section>

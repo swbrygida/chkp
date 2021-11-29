@@ -166,8 +166,8 @@ mounted() {
 @media screen  and (orientation: landscape) {
 p.withPhoto {
   margin: 0;
-  padding: 3vh 5vw;
-  width: 48vw;
+  padding: 3vh 3vw;
+  width: 51vw;
 
 }
 

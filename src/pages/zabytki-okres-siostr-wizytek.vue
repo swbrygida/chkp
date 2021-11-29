@@ -4,21 +4,25 @@
     <section>
     <div class="figure"><img src="../assets/fotosy/Serce-2.jpg" alt=""></div>
   </section>
-  <section>
-    <p>W końcu XVIII wieku w wyniku rozbiorów klasztor Brygidek utracił na rzecz zaborów znaczne dobra, potrzebne na jego utrzymanie. Trudna sytuacja materialna a także polityka nowych władz państwowych niekorzystnie wpłynęła na rozwój życia zakonnego.</p>
-  </section>
-  <section>
-    <div class="figure"><img src="../assets/fotosy/Wizytki-1.jpg" alt=""></div>
-  </section>
+
+
   <section>
     <p>W 1835 roku SS Wizytki zostały przez rząd usunięte z własnych budynków i ostatecznie trafiły do klasztoru zajmowanego przez SS Brygidki.</p>
     <p>Wizytki w okresie swojego pobytu w Lublinie utworzyły działające przy kościele bractwo Najsłodszego Serca Jezusowego, prowadziły internat i szkołę żeńską, a poprzez odprawianie nabożeństwa do Serca Jezusowego przyczyniały się do wzrostu pobożności u wiernych. Spowodowało to ponowny rozkwit kościoła Wniebowzięcia N.M.P. Zwycięskiej i klasztoru, w którym gromadzili się ludzie, szukając pocieszenia, nadziei i siły ducha w trudnych czasach rozbiorów i zaborów. Po upadku powstania styczniowego w 1864 roku nastąpiła kasacja istniejących klasztorów, a ich majątki przejął skarb państwa.</p>
+  </section>
+  <section>
+    <div class="figure"><img src="../assets/fotosy/Wizytki-1.jpg" alt=""></div>
   </section>
   <section>
     <p>W 1819 roku konwent brygidek w Lublinie został decyzją ministra Stanisława Kostki Potockiego zamknięty, zakonnice pozostawiono na terenie domu klasztornego na dożywocie i zlikwidowano nowicjat. W 1818 roku z licznego niegdyś zgromadzenia pozostało 18 zakonnic, natomiast w roku 1832 było ich już tylko 8, zaś ostatnia zakonnica, ksieni Dorota Hoińska zmarła w 1870 roku. W wyniku kasaty zakonu dobra brygidkowskie przeszły na skarb państwa.</p>
     <p>Po likwidacji klasztoru brygidek lubelskich, decyzją władz z roku 1830 część zespołu klasztornego przekazano wizytkom, które przebywały czasowo przy kościele Świętego Ducha, po przejęciu ich klasztoru na potrzeby szpitala wojskowego. Praktycznie Wizytki wprowadziły się do zabudowań pobrygidkowskich w roku 1838.</p>
     <p>Przejmując budynek klasztorny do użytkowania (brygidkom pozostawiono całe skrzydło zachodnie i małą część zachodnią skrzydła południowego) Wizytki w latach 1836-1838 dokonały jego przebudowy. W przypadku kościoła zlikwidowano dwie duże kaplice z ołtarzami, przylegające od południa do nawy bocznej. Wprowadzono mur zrównujący szerokość przedsionka wejścia kościoła i górnego przejścia. Zlikwidowano wejście boczne do kościoła od strony północnej przez gotycki portal. Przebudowa nie była w pełni zrealizowana zgodnie z planami, więc już w roku 1850 stan zachowania części zabudowań był zły co wymagało podjęcia kolejnych prac.</p>
     <p>Z tego okresu pochodzą zabytki:</p>
+    <p>1. Ołtarze i ambona w stylu francuskimc<br>
+      2. Obraz z przedstawieniem św. Franciszka Salezego<br>
+      3. Obraz ukazujący św. Józefa z Dzieciątkiem<br>
+      4. Obrazu z przedstawieniem św. Małgorzaty Alacoque
+    </p>
   </section>
   <section>
     <h3>1. Ołtarze i ambona w stylu francuskim</h3>
@@ -95,9 +99,9 @@
     return {
       poziom:1,
       clicker: 1,
-      allSections: 14,
-      level2: 5,
-      level3: 11
+      allSections: 13,
+      level2: 4,
+      level3: 10
     }
   }
 }

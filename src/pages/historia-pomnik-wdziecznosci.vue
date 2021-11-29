@@ -20,7 +20,10 @@
   <section>
     <div class="figure"><img src="../assets/fotosy/tablica-nr-1-elewacja-1.jpg" alt=""></div>
     <p>Powstanie fundacji było wyrazem głębokiej wiary króla Władysława Jagiełły w skuteczną pomoc Bożą, jakiej doznał w czasie walk z Krzyżakami. Lubelska świątynia miała być wotum dziękczynnym za zwycięstwo odniesione nad nimi pod Grunwaldem 15 lipca 1410 roku. Jednocześnie była także pierwszym w kraju pomnikiem je upamiętniającym.</p>
-    <p>Wydarzenie to dokumentują 3 tablice pamiątkowe, które znajdują się: w kaplicy Matki Bożej i św. Judy -Tadeusza, pod stiukowym popiersiem króla – fundatora, w półokrągłej niszy nad głównym wejściem do kościoła oraz w imitującej wejście niszy na frontonie kościoła.</p>
+    <p>Wydarzenie to dokumentują 3 tablice pamiątkowe, które znajdują się:<br>
+       w kaplicy Matki Bożej i św. Judy -Tadeusza, pod stiukowym popiersiem króla – fundatora, <br>
+       w półokrągłej niszy nad głównym wejściem do kościoła oraz <br>
+       w imitującej wejście niszy na frontonie kościoła.</p>
     <p>Dlaczego król Władysław Jagiełło wybrał Lublin?</p>
   </section>
     <section>
@@ -60,7 +63,7 @@
   </section>
     <section>
     <div class="figure"><img src="../assets/fotosy/Kaplica-grunwaldzka.jpg" alt=""></div>
-    <p>Po zwycięskiej bitwie król powrócił do Krakowa, przypisując zwycięstwo Bogu. To co zwycięstwo zawdzięczają łasce Boga, któremu składają podziękowania.</p>
+    <p>Po zwycięskiej bitwie król powrócił do Krakowa, przypisując zwycięstwo Bogu, któremu składa podziękowania.</p>
     <p>W prastarej katedrze na Wawelu król złożył chorągwie i proporce i długo modlił się na grobach Władysława Łokietka i św. Jadwigi, księżnej śląskiej.</p>
     <p>Grunwald to jedna z najświetniejszych chwil narodowego życia. Litwini dostrzegli, że jedynym ratunkiem jest zjednoczenie z Polską. Dlatego w 1413 w Horodle oświadczają, że pragną pozostać z Polską. Później 1 lipca 1569 roku za Zygmunta Augusta w Lublinie stwierdzają uroczystą przysięgą, że losy swojego narodu pragną na zawsze złożyć z losami Polski, pod rządami jednego króla.</p>
     <p>Po zwycięskiej bitwie Polska stała się jednym z najpotężniejszych państw Europy środkowej. Zwycięstwo podniosło ducha polskiego, ukazało siłę narodu, przyczyniło się do pojednania zwaśnionych rodów, stanów, warstw społecznych. Grunwald wykazał, że na dnie narodu spoczywają wielkie skarby cnoty, którymi okupione było zwycięstwo.</p>
@@ -77,13 +80,13 @@
     <p>Krzyżacy dowiedziawszy się o planach fundacyjnych króla wszelkimi sposobami starali się temu przeszkodzić, rozsiewali także kłamstwa o królu i naszym kraju. Z tego względu przełożeni w Szwecji odmówili wysłania zakonników św. Brygidy do Lublina.</p>
     <p>Król potrzebował 2 lat aby uzyskać zgodę Stolicy Apostolskiej na ten niezwykły pomnik: kościół wraz z klasztorem. Jako niedawno założony zakon św. Brygidy nie miał takiej ilości zakonników, których by mógł wysłać do Polski, gdyż liczba w każdym klasztorze była dokładnie określona. I tak każdy klasztor miał posiadać 60 sióstr zakonnych, 13 kapłanów, 4 diakonów, 8 laików, co razem wzięte musiało odpowiadać liczbie 13 apostołów i 72 uczniów.</p>
     <p>I oto w 1412 roku przyjeżdża do Lublina, prokurator Jan Helwasser wysłany z ramienia przełożonych zakonu św. Brygidy i tu wobec króla, rajców miejskich, w niedzielę po oktawie św. Marcina spisany został akt, mocą którego kosztem królewskim ma być zbudowany kościół Panny Maryi Zwycięskiej (a triumpho) na pamiątkę bitwy pod Grunwaldem, a przy nim klasztor zakonu św. Brygidy, aby tu była przechowywana wieczna pamięć króla Władysława Jagiełły i jego sławnych poprzedników oraz tych wszystkich, którzy polegli pod Grunwaldem. Z klasztoru św. Brygidy w Gdańsku zostali sprowadzeni do Lublina zakonnicy pochodzenia niemieckiego.</p>
-    <p>Król bogato uposażył zakonników, dając mu wieś Czerniejów, Skrzynice oraz przyległy folwarczek, nadając także liczne przywileje, na mocy których zapewnione miał klasztor pobieranie niektórych miejskich czynszów.</p>
+    <p>Król bogato uposażył klasztor, dając mu wieś Czerniejów, Skrzynice oraz przyległy folwarczek, nadając także liczne przywileje, na mocy których zapewnione miał klasztor pobieranie niektórych miejskich czynszów.</p>
   </section>
     <section>
     <div class="figure"><img src="../assets/fotosy/Kosciol-czasy-wspolczesne.jpg" alt=""></div>
     <p>Przy jednej z większych ulic w Lublinie, dziś – pisał ks. Jan Władziński w 1910 – Namiestnikowską zwanej (wcześniej ulica Panny Maryi), wznosi się na wprost teatru miejscowego świątynia, swą zewnętrzną strukturą staro gotycką budzącą podziw każdego przechodnia.</p>
     <p>A gdy wejdziesz do wnętrza tej świątyni, jakiś bezwład budowy panuje tu, ale w tym bezładzie wieleż piękna. Niskie sklepienie, schody na dół wiodące, dwie tylko nawy, przy bocznej nawie przybudówka, pełna wgłębień służących do okien i bocznych drzwi, żebra na sklepieniach z monolitów spajane, a spięte są cylindrami. Wejście na ambonę zamurowane aż do 1903 roku. Prezbiterium, pod nim podziemia z cegły. Sklepienia w prezbiterium z bogatą, misterną gipsaturą, stalle z obrazami życia św. Brygidy, nad zakrystią obraz świętej patronki.</p>
-    <p>Wewnątrz świątynia nie posiadał sklepienia ani chóru. Był zwyczajny strop wraz ze ścianami ozdobnie malowany. Z czasem zostały zniszczone te malowidła i przykryto grubą warstwą tynku. Dziś można je jeszcze oglądać.</p>
+    <p>Wewnątrz świątynia nie posiadała sklepienia ani chóru. Był zwyczajny strop wraz ze ścianami ozdobnie malowany. Z czasem zostały zniszczone te malowidła i przykryto grubą warstwą tynku. Dziś można je jeszcze oglądać.</p>
   </section>
     <section>
     <div class="figure"><img src="../assets/fotosy/model-kosciola-3.jpg" alt=""></div>

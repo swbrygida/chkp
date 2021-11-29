@@ -8,6 +8,11 @@
 <section>
 <p>Czas, gdy Brygidki funkcjonowały w klasztorze lubelskim można podzielić na dwa okresy. Pierwszy od wieku XV, to fundacja klasztoru przez króla Władysława Jagiełłę w stylu gotyckim, a w klasztorze przebywali zakonnice i zakonnicy sprowadzeni spoza okolic Lublina. Drugi – od wieku XVII, kiedy większość zakonnic pochodziła z miejscowych rodzin, na czele z ksienią Dorotą Firlejówną, a uposażenie kościoła dostosowano do charakteru renesansowo-barokowego.</p>
 <p>Do okresu gotyckiego należą:</p>
+<p>– dekoracja malarska wnętrza (strych, chór muzyczny),<br>
+– obraz św. Brygidy,<br>
+– krucyfiks,<br>
+– kamienna płyta nagrobna.
+</p>
 </section>
 <section>
 <h3>– dekoracja malarska wnętrza (strych, chór muzyczny),</h3>
@@ -33,7 +38,6 @@
 <p>– pojedyncze obrazy- pierwotnie ołtarzowe.</p>
 </section>
 <section>
-<p><strong>– dekoracja malarska wnętrza (strych, chór muzyczny),</strong></p>
 <p>Z czasów fundacji królewskiej pochodzi dekoracja malarska wnętrza kościoła zachowana w przestrzeni strychu oraz chóru muzycznego, o charakterze narracyjnym. Poszczególne następujące po sobie sceny zachowane fragmentarycznie przedstawiają – idąc od strony zachodniej (chórowej) nawy głównej w kierunku prezbiterium:</p>
 </section>
 <section>
@@ -46,14 +50,14 @@
 </section>
 <section>
 <h3>3. Fragment z dwiema scenami: jedna przedstawia stłoczonych jeźdźców, na pierwszym planie postać jadąca na białym koniu, ubrana w zielona szatę i nakrycie głowy, za postacią jeźdźcy w białych zbrojach i hełmach o otwartych zasłonach; druga scena wyobraża jeźdźca na białym koniu, w koronie na głowie, z prawą ręką uniesioną ze wskazującym palcem, twarz jeźdźca młoda, bez zarostu, jeździec ubrany w zielony strój spodni i czerwony płaszcz, przed nim postać mniejsza, prawdopodobnie giermek z drzewcem w ręku i hełmie na głowie, w tle postaci króla widoczne mury miasta z wieżą i basztą na tle niższej zabudowy.</h3>
-<div class="figure"><img src="../assets/fotosy/IMG_4857.jpg" alt=""></div>
+<div class="figure"><img src="../assets/fotosy/Polichromia-postac-krola.jpg" alt=""></div>
 </section>
 <section>
 <h3>4. Fragment z pochodem ciasno stłoczonych jeźdźców na czele z wodzem, siedzącym na koniu w bogatej uprzęży, twarz jeźdźca z długim zarostem, ubrany jest w zielony strój obszyty futrem; podążający za nim czterej jeźdźcy ubrani są w czerwone i zielone płaszcze oraz zróżnicowane nakrycia głowy, także w stylu wschodnim o zindywidualizowanych rysach twarzy, za nimi grupa jeźdźców- rycerzy w białych hełmach.</h3>
 <div class="figure"><img src="../assets/fotosy/IMG_4867.jpg" alt=""></div>
+<p>Fragmenty dekoracji figuralnej dopełniają detale ornamentalne, wyznaczające górną granicę przedstawień. Górne „zamknięcie” stanowi linia, poniżej której pas z motywem białych lilii.</p>
 </section>
 <section>
-<p>Fragmenty dekoracji figuralnej dopełniają detale ornamentalne, wyznaczające górną granicę przedstawień. Górne „zamknięcie” stanowi linia, poniżej której pas z motywem białych lilii.</p>
 <h3>– obraz św. Brygidy,</h3>
 <div class="figure"><img src="../assets/fotosy/Brygida-kopia-1.jpg" alt=""></div>
 <p>Obraz z przedstawieniem św. Brygidy zachował się na wyposażeniu lubelskiego kościoła i datowany jest na lata 70. XV wieku. Brygida ukazana jest w stroju zakonnym.</p>
@@ -66,11 +70,17 @@
 <section>
 <h3>– kamienna płyta nagrobna.</h3>
 <div class="figure"><img src="../assets/fotosy/Gotycka-plyta-1.jpg" alt=""></div>
-</section>
-<section>
 <p>Z czasów fundacji zachowanym w kościele obiektem jest kamienna płyta uznana za nagrobną, zachowana w dwóch fragmentach przypadkowo złożonych i wmurowanych w ścianę jednej z kaplic.</p>
 <p>Nowa XVII wieczna koncepcja wystroju i wyposażenia kościoła uwzględniała ciągłość klasztoru brygidek w Lublinie, bez odłamu męskiego i zarządzanego przez mniszki polskiego pochodzenia. Za rządów ksieni Doroty Firlejówny 1631-1660 nastąpiły istotne zmiany, zarówno w bryle kościoła jak i jego wnętrzu. Największe zmiany nastąpiły w prezbiterium, gdzie w miejscu sklepienia średniowiecznego powstało nowe sklepienie kolebkowe z lunetami, ozdobione dekoracją sztukatorską i malarską w duchu renesansu lubelskiego. Wybudowanie sklepień zniszczyło dekorację ścian, a obraz św. Brygidy w latach 1640-48 stał się elementem nowego ołtarza wybudowanego łącznie ze stallami. Wyposażenie prezbiterium w nowy ołtarz i połączone z nim stalle, pozwolił na umieszczenie w meblach obrazów. Wykonano pięć ołtarzy,w tym główny z obrazem Wniebowzięcia NMP, jak również nową ambonę oraz balustrady zdobione przedstawieniami emblematycznymi przed ołtarzem głównym i na chórze zakonnym. Do naszych czasów wyposażenie to nie przetrwało, ale zachowały się, choć rozproszone we wnętrzu kościoła i w niepełnym stanie, obrazy, w które były wprawione w ołtarze i stalle. Ich tematyka związana była z osobą św. Brygidy Szwedzkiej oraz dzieła jej życia – zakonu Najświętszego Zbawiciela.</p>
+
+</section>
+<section>
 <p>Do okresu renesansowo-barokowego należą:</p>
+<p>– obrazy w stallach z historia życia św. Brygidy,<br>
+– obrazy emblematyczne,<br>
+– wystrój prezbiterium,<br>
+– pojedyncze obrazy- pierwotnie ołtarzowe.
+</p>
 </section>
 <section>
 <h3>– obrazy w stallach z historia życia św. Brygidy:</h3>

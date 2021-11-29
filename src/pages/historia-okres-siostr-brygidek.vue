@@ -3,7 +3,7 @@
 
 
 <section>
-    <h3>OKRES SIÓSTR BRYGIDEK 1426-1870 r.</h3>
+    <h3>SIÓSTRY BRYGIDKI 1426-1870 r.</h3>
     <div class="figure"><img src="../assets/fotosy/Model-2.jpg" alt=""></div>
   </section>
     <section>
@@ -18,7 +18,7 @@
     <p>Struktura organizacyjna powstałej w Lublinie kongregacji zachowała niepowtarzalny dla tego zgromadzenia charakter. Zakon bowiem miał nietypową, jak na czasy średniowieczne strukturę, składał się z dwóch żyjących obok siebie wspólnot, męskiej i żeńskiej. Wspólnota żeńska składała się z 60 sióstr, męska z 13 kapłanów, 2 diakonów, 2 subdiakonów i 8 braci. W założeniach św. Brygidy Zakon miał być obrazem wspólnoty pierwotnego Kościoła: 72 uczniów i 12 Apostołów wraz ze św. Pawłem, oddanych opiece Matce Bożej, którą symbolizowała ksieni zakonu. To nawiązanie sprawiło, że w strukturze zgromadzenia przeor był podległy ksieni kongregacji. Tak miała wyglądać wspólnota według założeń, w rzeczywistości nie zawsze tak było. Zakon miał charakter manastyczno-kontemplacyjny i kontemplacyjno–apostolski. Bracia zajmowali się działalnością apostolską i posługą w kościele, natomiast siostry poświęcały się kontemplacji. Tak ukształtowany charakter zakonu oraz jego struktury organizacyjne przetrwały do czasów soboru trydenckiego (1545 – 1563), podczas którego dokonano kasaty męskiej gałęzi zakonu. Ostatni brygidzi zniknęli z Lublina w 1595 r. na polecenie króla Zygmunta III Wazy.</p>
     <p>Po śmierci fundatora, króla Władysława Jagiełły, kościół i klasztor św. Brygidy nadal był otaczany opieką monarchów: króla Kazimierza Jagiellończyka, króla Jana Olbrachta, Aleksandra Jagiellończyka, Zygmunta Starego.</p>
     <p>1 lipca 1569 roku na zamku podpisany został akt Unii Lubelskiej, dobrowolnego połączenia się Litwy z Polską. Przyjechali tu przedstawiciele wielu państw zagranicznych wraz z dygnitarzami, rycerstwem i szlachtą. Legat papieski Postini i kardynał Hozjusz mieszkali w Panien Brygidek.</p>
-    <p>W okresie Jagiellonów Lublin przezywa swój renesans. Staje się jednym z najważniejszych ośrodków handlowych w Rzeczpospolitej i odgrywa ważna rolę w kontaktach ze Wschodem. Niemal europejską sławą cieszy się ustanowiony w 1392 r. przez króla Władysława Jagiełłę jarmark. Powstaje tu wiele pałaców magnackich, dworów bogatych mieszczan, kwitnie handel, przemysł, odbywają się sejmy, sądy trybunalskie, przebywa ze świtą król, mający siedzibę na zamku.</p>
+    <p>W okresie Jagiellonów Lublin przeżywa swój renesans. Staje się jednym z najważniejszych ośrodków handlowych w Rzeczpospolitej i odgrywa ważna rolę w kontaktach ze Wschodem. Niemal europejską sławą cieszy się ustanowiony w 1392 r. przez króla Władysława Jagiełłę jarmark. Powstaje tu wiele pałaców magnackich, dworów bogatych mieszczan, kwitnie handel, przemysł, odbywają się sejmy, sądy trybunalskie, przebywa ze świtą król, mający siedzibę na zamku.</p>
   </section>
     <section>
     <div class="figure"><img src="../assets/fotosy/Model-3.jpg" alt=""></div>
@@ -72,13 +72,13 @@
   </section>
     <section>
         <div class="figure"><img src="../assets/fotosy/Krypta-414.jpg" alt=""></div>
-    <p>SS. Brygidki sprawowały opiekę nad lubelskim klasztorem w latach 1426-1835. W tym czasie utworzyły stowarzyszenie charytatywne tzw. Bractwo Ubogich mające na celu niesienie pomocy materialnej i moralnej osobom ubogim oraz przeprowadziły szereg gruntownych prac, które zmierzały do rozbudowy świątyni i budynków ją otaczających. Duże zasługi w tym kierunku mają zwłaszcza ksieni Agnieszka Jastkowska (1589-1630) oraz jej następczyni Dorota Firlejówna (1632-1660).</p>
+    <p>SS. Brygidki sprawowały opiekę nad lubelskim klasztorem w latach 1426-1870. W tym czasie utworzyły stowarzyszenie charytatywne tzw. Bractwo Ubogich mające na celu niesienie pomocy materialnej i moralnej osobom ubogim oraz przeprowadziły szereg gruntownych prac, które zmierzały do rozbudowy świątyni i budynków ją otaczających. Duże zasługi w tym kierunku mają zwłaszcza ksieni Agnieszka Jastkowska (1589-1630) oraz jej następczyni Dorota Firlejówna (1632-1660).</p>
     <p>Po roku 1819 zabroniono SS. Brygidkom przyjmowania nowicjuszek. Taki był smutny koniec fundacji królewskiej, która miała być żywym pomnikiem narodzin narodu pod Grunwaldem, skarbcem dla przechowania imienia wielkiego króla i sławy polskiego oręża.</p>
     <p>I jak niegdyś Lublin tworzył liczne klasztory św. Brygidy w Rzeczpospolitej, tak teraz stał się jego grobem, przyjmował bowiem w swe mury pozostałe do wymarcia siostry z różnych miejsc naszej Ojczyzny.</p>
     <p>W 1870 roku w wieku 101 lat zmarła Dorota Choińska, ostatnia ksieni zakonu SS. Brygidek.</p>
   </section>
   <section>
-    <p>15 lipca 1410 r. zwycięstwo oręża polsko-litewskiego pod wodzą króla Władysława Jagiełły nad Krzyżakami pod Grunwaldem i Tannenbergiem. Król pamiętał, że Bogu zawdzięcza to zwycięstwo, które zakończyło wiekowe krzywdy i powstrzymało drapieżne zapędy Krzyżaków.</p>
+    <p>15 lipca 1410 r. nastąpiło zwycięstwo oręża polsko-litewskiego pod wodzą króla Władysława Jagiełły nad Krzyżakami pod Grunwaldem i Tannenbergiem. Król pamiętał, że Bogu zawdzięcza to zwycięstwo, które zakończyło wiekowe krzywdy i powstrzymało drapieżne zapędy Krzyżaków.</p>
     <p>Po zwycięskiej bitwie mistrzowie życia duchownego wyjaśnili królowi, że klęskę Krzyżakom przepowiedziała św. Brygida Szwedzka, dlatego też król postanowił wybudować pomnik wdzięczności Bogu powierzając go opiece zakonowi założonemu przez św. Brygidę Szwedzką.</p>
     <div class="figure"><img src="../assets/fotosy/Popiersie-krola.jpg" alt=""></div>
   </section>
@@ -98,7 +98,7 @@
   </section>
     <section>
     <p>Poniedziałek Wielkanocny 1426 r. w Krasnymstawie został podpisany akt fundacyjny na mocy którego uposażenie klasztoru stanowiły:</p>
-    <ol>
+    <ul>
     <li>wieś Czerniejów,</li>
     <li>półtora łanu pola z legatu Wojciechy, gdzie był wystawiony kościół i klasztor,</li>
     <li>folwarczek z dwóch łanów pola</li>
@@ -106,7 +106,7 @@
     <li>drzewo na budowę i opał z lasów królewskich</li>
     <li>40 marek rocznie czynszu, z których 20 cło miejskie lubelskie i 20 cło miejskie chełmskie</li>
     <li>utrzymanie jednego rybaka do łowienia ryb z sadzawek i stawów lubelskich</li>
-    </ol>
+  </ul>
     <p>Jednocześnie zobowiązał król braci Brygidów będących kapłanami, aby każdy z nich tygodniowo odprawiła 3 Msze św.: za króla, za jego następców i za szczęśliwy stan państwa polskiego.</p>
     <p>Od samego początku lubelski klasztor Brygidek posiadał bardzo dobre uposażenie. Obszerna posiadłość ziemska, czynsze pieniężne, serwituty sprawiły że pod względem materialny klasztor był dobrze zabezpieczony i mógł normalnie funkcjonować. Również mieszkańcy otaczali klasztor wielką życzliwością i wspierano go licznymi ofiarami.</p>
     <p>1429 r. na kapitule generalnej, na której byli obecni przełożeni klasztorów, m.in. przeor Stefan – przełożony klasztoru lubelskiego został uczyniony zapis w konstytucji: „ponieważ klasztor założony przez króla polskiego na pamiątkę wielkiego zwycięstwa odniesionego przezeń nad Krzyżakami jest nieodpowiednio założony, należy napisać do JKM, aby raczył w inne dogodniejsze miejsce klasztor przenieść, mieszkanie zakonne lepiej urządzić i opatrzyć fundację w bogatsze uposażenie, w przeciwnym razie klasztoru tego i tej fundacji zakon się wyrzeknie”.</p>
@@ -127,7 +127,7 @@
     <div class="figure"><img src="../assets/fotosy/Krypta-gablota-nr-1.jpg" alt=""></div>
     <p>1510 r. klasztor nabył nową posiadłość ziemską. Niejaki Bartłomiej albo Bartko, obywatel lubelski, będąc właścicielem sześciu łanów pola pod miastem Lublinem, uzyskał w r. 1396 od króla Władysława Jagiełły z powodu swych zasług przywilej zwalniający go i jego potomków od płacenia z tych łanów podatku i wszelkich ciężarów publicznych. Potomek jego Mikołaj, obywatel lubelski za szczególne zasługi wyjednał sobie zatwierdzenie tego przywileju w 1439 r. od Władysława III Wareńczyka. Klasztor z tych sześciu łanów nabył 3 łany, pozostałe 3 dokupił w początkach XVI w.</p>
     <p>1589-1630 ksieni Agnieszka Jastkowska zakupiła z posagów wnoszonych przez kandydatki do zakonu wieś Minkowice dolne i górne z folwarkiem.</p>
-    <p>Klasztor miał liczne posiadłości ziemskie oraz czynsze roczne z zapisu królów lub osób prywatnych. Najwięcej przywilejów konfirmacyjnych udzielił klasztorowi Zygmunt Stary, Stefan Batory i Zygmunt II.</p>
+    <p>Klasztor miał liczne posiadłości ziemskie oraz czynsze roczne z zapisu królów lub osób prywatnych. Najwięcej przywilejów konfirmacyjnych udzielił klasztorowi Zygmunt Stary, Stefan Batory i ZygmuntII.</p>
   </section>
     <section>
     <div class="figure"><img src="../assets/fotosy/Krypta-gablota-nr-2.jpg" alt=""></div>
@@ -241,7 +241,7 @@
     return {
       poziom:1,
       clicker: 1,
-      allSections: 30,
+      allSections: 39,
       level2: 8,
       level3: 16
     }

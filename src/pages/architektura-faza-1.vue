@@ -12,12 +12,12 @@
     <section>
 
     <p>Pierwszą świątynię, która była właściwie kaplicą pw. NMP i św. Barbary i św. Zofii zbudował w 1396 wójt lubelski Wawrzyniec wraz z Radą Miejską na gruncie ofiarowanym przez wdowę imieniem Woyczecha. Fundację zatwierdził i kaplicę poświęcił bp krakowski Piotr Wysz. Posługę duszpasterską pełnił zwykle jeden kapłan w ówczesnej terminologii zw. prebendarzem. </p>
-    <ol style="list-style-type: decimal">
+    <ul>
     <li>Kaplica z 1396 r. – architektura</li>
     <li>NMP – Matka Boża Zwycięska</li>
     <li>św. Barbara</li>
     <li>św. Zofia</li>
-    </ol>
+  </ul>
   </section>
   <section>
     <div class="figure">
@@ -36,7 +36,7 @@
     </div>
   </section>
   <section>
-    <p>Ufundowana w 1396 r. kaplica składała się z prezbiterium wraz z korpusem nawowym, zakrystią i kaplicą południową. Według Jerzego Siennickiego pierwsza świątynia mogła być położona w miejscu później wzniesionej wieży. Natomiast według ks. Jana Ambrożego Wadowskiego mieściła się na terenie kaplicy północnej pw. Najświętszej Maryi Panny. Najnowsze badania archeologiczne pokazują, że prezbiterium pierwszej świątyni pokrywa się w rzucie z dotąd istniejącym.</p>
+    <p>Ufundowana w 1396 r. kaplica składała się z prezbiterium wraz z korpusem nawowym, zakrystią i kaplicą południową. Według Jerzego Siennickiego pierwsza świątynia mogła być położona w miejscu później wzniesionej wieży. Natomiast według ks. Jana Ambrożego Wadowskiego mieściła się na terenie kaplicy północnej pw. Najświętszej Maryi Panny. Najnowsze badania archeologiczne pokazują, że prezbiterium pierwszej świątyni pokrywa się w rzucie z istniejącym.</p>
     <p>W świetle najnowszych badań można z całą pewnością powiedzieć, że pod koniec XIV w. w planach budowniczych uformowało się założenie o wydłużonym prezbiterium i krótkim, lecz szerokim korpusie nawowym z dwoma przybudówkami po bokach: przylegającą od południa do nawy kaplicą i położoną od północy, zespoloną z prezbiterium, kwadratową w rzucie zakrystią.</p>
     <p>W pierwszym etapie zbudowano prezbiterium z zakrystią. Prezbiterium pierwszej świątyni w założeniach było dwuprzęsłowe, zamknięte od wschodu trzema ścianami dziesięcioboku, przykryte sklepieniem krzyżowo-żebrowym, opięte przyporami, doświetlone oknem od wschodu, oraz oknami od południa i jednym od północy. Elewacje prezbiterium i ściany przypór obiegał kamienny gzyms.</p>
     <p>Do prezbiterium przylegał aneks północny, pełniący funkcję zakrystii, w której było mieszkanie Gertrudy Firlej z Opalińskich, matki przyszłej ksieni Doroty. Zewnętrzne ściany zakrystii były spięte gzymsem, ale umieszczonym niżej niż na północnej elewacji prezbiterium. Całość obiektu, prezbiterium i zakrystię ogradzał niski cokół.</p>
@@ -46,7 +46,7 @@
   <section>
     <h3>NMP – Matka Boża Zwycięska</h3>
     <div class="figure">
-    <img src="../assets/fotosy/NMP-_-Matka-Boza.jpg" />
+    <img src="../assets/fotosy/NMP.png" />
     </div>
   </section>
   <section>
@@ -58,7 +58,7 @@
     <p>Przełomowym wydarzeniem było zwycięstwa floty chrześcijańskiej nad wojskami tureckimi, odniesionego pod Lepanto (nad Zatoką Koryncką) 7 października 1571 r. Sułtan turecki Selim II pragnął podbić całą Europę i zaprowadzić w niej wiarę muzułmańską. Ówczesny papież – wspomniany już św. Pius V, dominikanin, gorący czciciel Matki Bożej – usłyszawszy o zbliżającej się wojnie, ze łzami w oczach zaczął zanosić żarliwe modlitwy do Maryi, powierzając jej swą troskę podczas odmawiania różańca. Nagle doznał wizji: zdawało mu się, że znalazł się na miejscu bitwy pod Lepanto. Zobaczył ogromne floty, przygotowujące się do starcia. Nad nimi ujrzał Maryję, która patrzyła na niego spokojnym wzrokiem. Nieoczekiwana zmiana wiatru uniemożliwiła manewry muzułmanom, a sprzyjała flocie chrześcijańskiej. Udało się powstrzymać inwazję Turków na Europę.</p>
     <p>Zwycięstwo było ogromne. Po zaledwie czterech godzinach walki zatopiono sześćdziesiąt galer wroga, zdobyto połowę okrętów tureckich, uwolniono dwanaście tysięcy chrześcijańskich galerników; śmierć poniosło 27 tys. Turków, kolejne 5 tys. dostało się do niewoli. Pius V, świadom, komu zawdzięcza cudowne ocalenie Europy, uczynił dzień 7 października świętem Matki Bożej Różańcowej i zezwolił na jego obchodzenie w tych kościołach, w których istniały Bractwa Różańcowe.</p>
     <p>Klemens XI, w podzięce za kolejne zwycięstwo nad Turkami odniesione pod Belgradem w 1716 r., rozszerzył to święto na cały Kościół. W roku 1883 Leon XIII wprowadził do Litanii Loretańskiej wezwanie „Królowo Różańca świętego – módl się za nami”, a w dwa lata później zalecił, by w kościołach odmawiano różaniec przez cały październik.</p>
-    <p>Opisane wydarzenia pozwalają nazywać Maryję Matką Bożą Zwycięską. Jej wizerunek często jest kopia rzymskiej ikony <em>Salus Populi Romani</em> (Ocalenie Ludu Rzymskiego) z Bazyliki Santa Maria Maggiore w Rzymie. Wizerunek ten (co widać na zdjęciu wyżej) przedstawia Jezusa spoczywającego na lewej ręce Najświętszej Maryi Panny. Jego prawa ręka jest lekko wzniesiona w geście błogosławieństwa. W lewej ręce trzyma On księgę; wydaje się, że patrzy on na swoją matkę. Wzrok Maryi skierowany jest z kolei na ludzi, jakby chciała przyciągnąć ich do swojego Boskiego Syna. Jezus błogosławi ludzi, na których patrzy Maryja.</p>
+    <p>Opisane wydarzenia pozwalają nazywać Maryję Matką Bożą Zwycięską. Jej wizerunek często jest kopia rzymskiej ikony <em>Salus Populi Romani</em> (Ocalenie Ludu Rzymskiego) z Bazyliki Santa Maria Maggiore w Rzymie. Wizerunek ten przedstawia Jezusa spoczywającego na lewej ręce Najświętszej Maryi Panny. Jego prawa ręka jest lekko wzniesiona w geście błogosławieństwa. W lewej ręce trzyma On księgę; wydaje się, że patrzy on na swoją matkę. Wzrok Maryi skierowany jest z kolei na ludzi, jakby chciała przyciągnąć ich do swojego Boskiego Syna. Jezus błogosławi ludzi, na których patrzy Maryja.</p>
     <p>Kościół Rektoralny pw. Najświętszej Maryi Panny Zwycięskiej w Lublinie jest upamiętnieniem zwycięstwa Maryi, ale tego zwycięstwa, które dokonało się pod Grunwaldem. Jest hołdem złożonym Matce Bożej przez tych, którzy chcieli służyć świętej wierze i Bogu.</p>
     <p>(źródło: <em>http://www.mbkp.info/modlitwy/mbz.html</em>)</p>
   </section>

@@ -3,7 +3,7 @@
 
     <section>
 
-      <h3>Rysunek str. 21 – model drugiej fazy – zeszyt nr 7</h3>
+      <h3>Model drugiej fazy z lat: 1412 - 1426</h3>
     <div class="figure">
     <img src="../assets/fotosy/faza2b.webp" />
     </div>
@@ -18,11 +18,11 @@
     </div>
   </section>
   <section>
-    <ol style="list-style-type: decimal">
-    <li>król Władysław Jagiełło i Jadwiga – popiersie z kościoła</li>
+    <ul>
+    <li>Król Władysław Jagiełło i Jadwiga – popiersie z kościoła</li>
     <li>Kościół – królewski pomnik wdzięczności, budowa 1412-26.</li>
-    <li>Klasztor i życie w klasztorze Zakonu Najświętszego Zbawiciela – Siostry Brygidki i Bracia Brygidzi</li>
-    </ol>
+    <li>Klasztor i życie w klasztorze Zakonu Najświętszego Zbawiciela<br> – Siostry Brygidki i Bracia Brygidzi</li>
+  </ul>
   </section>
   <section>
     <div class="figure">
@@ -51,10 +51,13 @@
     <p>Czas powstania: 1910 r.</p>
     <p>Autor, szkoła, warsztat: brak</p>
     <p>Na zachodniej ścianie kaplicy północnej w konchowej wnęce popiersie monarchy. Głowa pod koroną królewską, wokół szyi krzyż, szata spięta na prawym ramieniu. Na piersiach krzyż. Tło wnęki płaskorzebione w liść dębu.</p>
-    <p>Pod wnęką wmurowana tablica inskrypcyjna z brązowego marmuru. Napis kuty złocony: „ŚWIĄTYNIĘ TĘ WZNIÓSŁ KRÓŁ WŁADYSŁAW JAGIEŁŁO/ NA PAMIĄTKĘ ZWYCIĘSTWA ODNIESIONEGO / POD GRUNWALDEM</p>
-    <p>D. 15 LIPCA 1410 ROKU</p>
-    <p>W PIĘĆSETNĄ ROCZNICĘ</p>
-    <p>WDZIĘCZNA POTOMNOŚĆ TABLICĘ TĘ POŁOZYŁA.</p>
+    <p>Pod wnęką wmurowana tablica inskrypcyjna z brązowego marmuru. Napis kuty złocony:</p>
+    <p>„ŚWIĄTYNIĘ TĘ WZNIÓSŁ<br>
+       KRÓŁ WŁADYSŁAW JAGIEŁŁO/ <br>
+      NA PAMIĄTKĘ ZWYCIĘSTWA ODNIESIONEGO / <br>
+      POD GRUNWALDEM D. 15 LIPCA 1410 ROKU<br>
+    W PIĘĆSETNĄ ROCZNICĘ<br>
+    WDZIĘCZNA POTOMNOŚĆ TABLICĘ TĘ POŁOZYŁA.""</p>
   </section>
   <section>
     <p><strong>1.B. Jadwiga Andegaweńska</strong></p>
@@ -74,9 +77,9 @@
     <p>Po koronacji Jadwiga musiała wykazywać się sprytem i inteligencją, dzięki której mogłaby skutecznie panować na polskiej ziemi. Pełny tytuł władczyni brzmiał: <em>Hedvigis Dei gracia regina Polonie, necnon terrarum Cracovie, Sandomirie, Siradie, Lancicie, Cuiavie, Pomoranieque domina et heres</em>, co znaczyło – ni mniej, ni więcej – Jadwiga z Bożej łaski królowa Polski, a także pani i dziedziczka ziem krakowskiej, sandomierskiej, sieradzkiej, łęczyckiej, kujawskiej i pomorskiej. Tytuł nie był bez znaczenia. <strong>Jadwiga uchodziła bowiem za osobę niezwykle kompetentną, przez co to właśnie do jej kancelarii przybywali wszyscy reprezentanci zagranicznych rządów.</strong> Władysław Jagiełło pozostawał w cieniu, będąc pod wpływem działań charyzmatycznej małżonki.</p>
     <p>Wielki Książę Litewski, założyciel dynastii Jagiellonów, przeprowadził skuteczną chrystianizację Litwy, w czym kluczową rolę odegrała właśnie Jadwiga. <strong>Na jej grobie widnieje zresztą szczególnie symboliczny napis, który brzmi: „zaniosła światło chrześcijańskiej wiary do pogan”</strong>.</p>
     <p>Nie bez znaczenia jest również sztuka dyplomacji, w której specjalizowała się przedstawicielka dynastii Andegawenów. <strong>Bo to właśnie ona doprowadziła do zgody pomiędzy Władysławem Jagiełłą, a jego odwiecznym rywalem, księciem Witoldem.</strong> Jadwiga okazała się być wytrawnym politykiem, czego dowodem jest inteligentnie prowadzona polityka z Zakonem Krzyżackim. W relacjach z Krzyżakami dążyła do zachowania pokoju, choć nie szła wobec nich na żadne ustępstwa. Z perspektywy czasu mówi się, że to właśnie ona przygotowała grunt pod zwycięstwo polskiego oręża pod Grunwaldem. To ona cementowała sojusze, dzięki którym ostatecznie doszło do wiktorii Władysława Jagiełły.</p>
-    <p>…<strong>bojowa władczyni</strong></p>
   </section>
   <section>
+    <p>…<strong>bojowa władczyni</strong></p>
     <p>Wiosną 1387 roku królowa Jadwiga stanęła na czele zbrojnej wyprawy na Ruś Czerwoną, krainę historyczną na północ-zachodniej Ukrainie oraz w południowo-wschodniej Polsce. <strong>Pod nieobecność Jagiełły poprowadziła ona przemarsz wojsk – większość miast i zamków otworzyło przed polską królową bramy bez walki.</strong> Jednak pod Stubnem, na terenie dzisiejszego podkarpacia, drogę oddziałom polskim zagrodziły wojska węgierskie. Naprzeciwko siebie stanęły dwie siostry, bo po drugiej stronie czekały już wojska Marii, królowej Węgier. Niezwykła batalia zakończyła się ostatecznie zwycięstwem Jadwigi. W wyniku rozstrzygnięć na polu walki starostowie węgierscy zostali usunięci, natomiast Ruś Czerwona i Lwów przyłączone do Polski. Lwów już wkrótce stał się jedną z czołowych polskich metropolii.</p>
     <p><strong>Królowa Jadwiga</strong></p>
     <p>Uchodziła za świętą. <strong>Była piękna, charyzmatyczna, samoświadoma.</strong> Nie bała się stanąć na pierwszej linii frontu i konfrontować się z mężczyznami. I choć żyła zaledwie 26 lat, to zapisała się jako potężny władca. Oto i królowa Jadwiga, polski monarcha o wyjątkowym charakterze, kobieta, która zapisała się w annałach nie tylko rodzimej historii. W jej biografii znajdziemy jeszcze inne tajemnice.</p>

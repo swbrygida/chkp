@@ -1,7 +1,7 @@
 <template id="">
   <Layout>
     <section>
-
+        <h3>Model trzeciej fazy z lat: 1470 - 1480</h3>
     <div class="figure">
     <img src="../assets/fotosy/faza3b.webp" />
     </div>
@@ -46,7 +46,7 @@
     </section>
     <section>
 
-    <p>Po kilkudziesięciu latach zadecydowano o przebudowie świątyni. W jej bryle zewnętrznej nie zaistniał większe zmiany. Przebudowa dotyczyła wnętrza samego korpusu, który uległ podziałowi na nawę główną i boczną. Na przedłużeniu południowego muru prezbiterium ustawiono ścianę z arkadami na filarach. Filarom nadano formę wieloboku. Zostały wzniesione na rzucie prostokąta ze ściętymi narożami, obwiedzione u dołu cokołem i połączone trzema ostrołukowymi arkadami. Zbudowano dwa pełne i dwa przyścienne, o połowę mniejsze filary. Te przyścienne, zarówno wschodni jak i zachodni są dostawione do otynkowanego lica muru. Przyścienny filar zachodni dostawiono do ściany pokrytej polichromią. Fragment dekoracji malarskiej istniejącej za zachodniej ścianie korpusu przed wykonaniem podziału nawowego, zachował się powyżej empory. Wszystkie filary ceglane opierały się na stosunkowo niskim cokole, w którym oprócz kamienia zastosowano też dodatek cegły, a wyżej prawie wyłącznie cegłę. Krawędzie arkad z obu stron oprofilowano z zastosowaniem kształtek ceramicznych. Pomimo licznych przekształceń, zachowały się wszystkie filary i arkada zachodnia. W narożniku przy wschodnim filarze przyściennym pozostał fragment oprofilowanej arkady, tzn. jej wschodni człon. Środkową i znaczną część wschodniej przemurowano w trakcie podstawiania nowych arkad ostrołukowych w późniejszej już fazie budowy. Ścianę powyżej i między ostrołukami ozdobiono malowidłami. Część tej dekoracji jest widoczna na jej północnym licu powyżej obecnego sklepienia w zakresie przęsła zachodniego. Dzięki odkryciom i zabiegom konserwatorskim możemy zapoznać się zarówno z profilami zachodniej arkady, jak też z pozostałościami polichromii odsłoniętej pod sklepieniem. Tej scena malarska został a już odkryta i opisana przez Józefa Smolińskiego, który wykonał pierwszą inwentaryzację. Z dotychczasowej wiedzy wynika, że malowidło powstało między rokiem 1466 a 1477. Krótko po wzniesieniu murów wnętrze kościoła tynkowano i ozdabiano malowidłami. Mamy więc przybliżony czas powstania podziału nawowego, choć niektórzy ze znawców tematu skłaniają się dziś do nieco późniejszego datowania tej polichromii, przypadającego na lata 80-te, a nawet schyłek XVw. Niemniej jednak podział dwunawowy wykształcił się przed upływem XV stulecia. Korpus w ten sposób asymetrycznie podzielony na dwie nawy o różnej szerokości, przekryto stropem belkowym.</p>
+    <p>Po kilkudziesięciu latach zadecydowano o przebudowie świątyni. W jej bryle zewnętrznej nie zaistniały większe zmiany. Przebudowa dotyczyła wnętrza samego korpusu, który uległ podziałowi na nawę główną i boczną. Na przedłużeniu południowego muru prezbiterium ustawiono ścianę z arkadami na filarach. Filarom nadano formę wieloboku. Zostały wzniesione na rzucie prostokąta ze ściętymi narożami, obwiedzione u dołu cokołem i połączone trzema ostrołukowymi arkadami. Zbudowano dwa pełne i dwa przyścienne, o połowę mniejsze filary. Te przyścienne, zarówno wschodni jak i zachodni są dostawione do otynkowanego lica muru. Przyścienny filar zachodni dostawiono do ściany pokrytej polichromią. Fragment dekoracji malarskiej istniejącej za zachodniej ścianie korpusu przed wykonaniem podziału nawowego, zachował się powyżej empory. Wszystkie filary ceglane opierały się na stosunkowo niskim cokole, w którym oprócz kamienia zastosowano też dodatek cegły, a wyżej prawie wyłącznie cegłę. Krawędzie arkad z obu stron oprofilowano z zastosowaniem kształtek ceramicznych. Pomimo licznych przekształceń, zachowały się wszystkie filary i arkada zachodnia. W narożniku przy wschodnim filarze przyściennym pozostał fragment oprofilowanej arkady, tzn. jej wschodni człon. Środkową i znaczną część wschodniej przemurowano w trakcie podstawiania nowych arkad ostrołukowych w późniejszej już fazie budowy. Ścianę powyżej i między ostrołukami ozdobiono malowidłami. Część tej dekoracji jest widoczna na jej północnym licu powyżej obecnego sklepienia w zakresie przęsła zachodniego. Dzięki odkryciom i zabiegom konserwatorskim możemy zapoznać się zarówno z profilami zachodniej arkady, jak też z pozostałościami polichromii odsłoniętej pod sklepieniem. Tej scena malarska został a już odkryta i opisana przez Józefa Smolińskiego, który wykonał pierwszą inwentaryzację. Z dotychczasowej wiedzy wynika, że malowidło powstało między rokiem 1466 a 1477. Krótko po wzniesieniu murów wnętrze kościoła tynkowano i ozdabiano malowidłami. Mamy więc przybliżony czas powstania podziału nawowego, choć niektórzy ze znawców tematu skłaniają się dziś do nieco późniejszego datowania tej polichromii, przypadającego na lata 80-te, a nawet schyłek XVw. Niemniej jednak podział dwunawowy wykształcił się przed upływem XV stulecia. Korpus w ten sposób asymetrycznie podzielony na dwie nawy o różnej szerokości, przekryto stropem belkowym.</p>
   </section>
   <section>
     <div class="figure">
@@ -54,7 +54,7 @@
     </div>
   </section>
   <section>
-    <h3>Polichromia – freski z XV w.</h3>
+    <h4>Polichromia – freski z XV w.</h4>
     <p>1. Fragment polichromii nad chórem muzycznym</p>
     <p>2. Fragment polichromii architektura wieży i towarzyszących zabudowań średniowiecznego miasta</p>
     <p>3. Fragment polichromii postać króla i wyprzedzającego go giermka</p>
@@ -68,7 +68,7 @@
     <p>Datowanie za Tadeuszem Dobrowolskim. Fundacje malowideł przypisuje się królowi Kazimierzowi Jagiellończykowi, bądź przeorowi Marcinowi z Karnowic. Pod koniec XV w. rozpoczęto budowanie sklepień kościoła, przy którym następowało zniszczenie polichromii. Następne zniszczenia powstały podczas budowania wieży kościoła w przebudowy chóru muzycznego w latach 1632-1660. malowidła odkrył Józef Smoliński w 1898r.</p>
   </section>
   <section>
-    <h3>1. Fragment polichromii nad chórem muzycznym – zdjęcie</h3>
+    <h3>1. Fragment polichromii nad chórem muzycznym</h3>
     <div class="figure">
     <img src="../assets/fotosy/Chor-muzyczny.jpg" />
     </div>
@@ -82,7 +82,7 @@
     <p>Fragment polichromii przy narożu ze ściana zachodnią przedstawia wysmukłą wieżę krytą ostro stożkowym chełmem. Wokół chełmu wieniec czterech drobnoniejszych wieżyczek. Ku lewej w stronę prezbiterium wieży towarzyszą zabudowania miejskie, pośród których mniejsza wieża okrągła /baszta/ kryta chełmem stożkowym. Naturalne tło ciepłej bieli tynku cieniowane kolorami ceglastymi od delikatnego różu do intensywnej cegły. Kontury znaczone kreską ciemno stalową. Na ścianie zachodniej kontury raczej krajobrazu wykonane ceglaste i szeroką kreską szaro brunatną</p>
   </section>
   <section>
-    <h3>3. Fragment polichromii postać króla i wyprzedzającego go giermka – zdjęcie</h3>
+    <h3>3. Fragment polichromii postać króla i wyprzedzającego go giermka</h3>
     <div class="figure">
     <img src="../assets/fotosy/Polichromia-postac-krola.jpg" />
     </div>
