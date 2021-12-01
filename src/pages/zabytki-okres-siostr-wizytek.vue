@@ -2,6 +2,7 @@
   <Layout>
 
     <section>
+      <h3>SIOSTRY WIZYTKI</h3>
     <div class="figure"><img src="../assets/fotosy/Serce-2.jpg" alt=""></div>
   </section>
 

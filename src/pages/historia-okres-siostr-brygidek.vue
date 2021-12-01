@@ -3,7 +3,7 @@
 
 
 <section>
-    <h3>SIÓSTRY BRYGIDKI 1426-1870 r.</h3>
+    <h3>SIOSTRY BRYGIDKI 1426-1870 r.</h3>
     <div class="figure"><img src="../assets/fotosy/Model-2.jpg" alt=""></div>
   </section>
     <section>

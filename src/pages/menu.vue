@@ -123,14 +123,14 @@
                       <div class="image-wrapper ruch">
                         <g-image src="~/assets/fotosy/Zabytki-okres-siostr-Brygidek.JPG" width="500"/>
                         </div></g-link>
-                      <h2 class="title" data-cta=" →"> Okres Sióstr Brygidek</h2>
+                      <h2 class="title" data-cta=" →">Siostry Brygidki</h2>
                     </div>
                     <div class="promo" style="--overlay-color: darkgreen">
                       <g-link to="/historia-okres-siostr-wizytek/">
                       <div class="image-wrapper ruch" >
                         <g-image src="~/assets/fotosy/Zabytki-okres-siostr-Wizytek.JPG" width="500"/>
                         </div></g-link>
-                      <h2 class="title" data-cta=" →">Okres Sióstr Wizytek</h2>
+                      <h2 class="title" data-cta=" →">Siostry Wizytki</h2>
                     </div>
                     <div class="promo" style="--overlay-color: blue">
                       <g-link to="/historia-koniec-wieku/">
@@ -184,14 +184,14 @@
                       <div class="image-wrapper ruch" >
                         <g-image src="~/assets/fotosy/Zabytki-okres-siostr-Brygidek.JPG" width="500"/>
                       </div></g-link>
-                      <h2 class="title" data-cta="Zobacz Zabytki →">Okres Sióstr Brygidek</h2>
+                      <h2 class="title" data-cta="Zobacz Zabytki →">Siostry Brygidki</h2>
                     </div>
                     <div class="promo" style="--overlay-color: orange">
                       <g-link to="/zabytki-okres-siostr-wizytek/">
                       <div class="image-wrapper ruch" >
                         <g-image src="~/assets/fotosy/Zabytki-okres-siostr-Wizytek.JPG" width="500"/>
                       </div></g-link>
-                      <h2 class="title" data-cta="Zobacz Zabytki →">Okres Sióstr Wizytek</h2>
+                      <h2 class="title" data-cta="Zobacz Zabytki →">Siostry Wizytki</h2>
                     </div>
 
                   </div> <!-- koniec menu4 -->

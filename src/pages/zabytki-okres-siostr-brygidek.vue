@@ -2,7 +2,7 @@
   <Layout>
 
     <section>
-<h3>OKRES SIÓSTR BRYGIDEK</h3>
+<h3>SIOSTRY BRYGIDKI 1426-1870 r.</h3>
 <div class="figure"><img src="../assets/fotosy/Metryka-lubelskich-brygidek.jpg" alt=""></div>
 </section>
 <section>
