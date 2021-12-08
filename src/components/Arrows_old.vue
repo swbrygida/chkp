@@ -4,18 +4,18 @@
 
 
 
-  <a href="#" @click="dodaj">
-  <i class="fas fa-angle-double-down"></i>
-  </a>
-  <a href="#">
+  <div class="arr">
+  <i class="znik fas fa-angle-double-down" @click="dodaj"></i>
+</div>
+  <div class="arr">
   <div class="sekcje"><span>POZIOM</span> {{ktorypoziom}} <br>{{slajd}}/{{slajdy}}</div>
-  </a>
+</div>
 
-  <a href="#"  @click="odejmij">
-  <i class="fas fa-angle-double-up" ></i>
-  </a>
+  <div class="arr">
+  <i class="znik fas fa-angle-double-up" @click="odejmij"></i>
+</div>
 <a href="/menu/">
-<i class="fas fa-solid fa-bars"></i>
+<i class="menuIcon fas fa-solid fa-bars"></i>
 </a>
 
 
@@ -42,21 +42,20 @@ export default {
   },
   methods: {
     dodaj() {
+     gsap.to('.znik', 0.1, {opacity: 0, display: "none"});
      if (this.clicker < this.allSections) {
-      this.$emit('clicker', this.clicker++);
-      let numberX = this.clicker;
-      let numberXS = numberX -1;
-      let numberPS = 'section:nth-child(' + numberXS + ')';
-      let numberPN = 'section:nth-child(' + numberX + ')';
-      let loader1 = document.querySelector(numberPS)
-      let loader2 = document.querySelector(numberPN)
-      gsap.to(loader1, { y: '-40%', opacity: 0, display: "none"});
-      gsap.from(loader2, 1.6, {delay: 1.6, display: "block", y: '40%', opacity: 0, });
-      gsap.to(loader2, 1.6, {delay: 0.6,  scrollTo: {y: -200} });
-      gsap.to(loader2, 1.6, {delay: 2.6,  display: "block",  backgroundColor: '#000', color: '#fff'});
 
-
-
+         this.$emit('clicker', this.clicker++);
+         let numberX = this.clicker;
+         let numberXS = numberX -1;
+         let numberPS = 'section:nth-child(' + numberXS + ')';
+         let numberPN = 'section:nth-child(' + numberX + ')';
+         let loader1 = document.querySelector(numberPS)
+         let loader2 = document.querySelector(numberPN)
+         gsap.to(loader1, { y: '-40%', opacity: 0, display: "none"});
+         gsap.from(loader2, 1.6, {delay: 1.6, display: "block", y: '40%', opacity: 0, });
+         gsap.to(loader2, 1.6, {delay: 0.6,  scrollTo: {y: -200} });
+         gsap.to(loader2, 1.6, {delay: 2.6,  display: "block",  backgroundColor: '#000', color: '#fff'});
 };
 if (this.clicker < this.level2){
   this.slajd = this.clicker;
@@ -69,6 +68,7 @@ if (this.clicker < this.level2){
   this.slajdy = this.allSections - this.level3 +1;
   this.slajd = this.clicker -this.level3 + 1;
 };
+gsap.from('.znik', 0.2, {delay: 3.6, opacity: 0, display: "block"});
 
 
 
@@ -127,7 +127,7 @@ if (this.clicker < this.level2){
   }
   .sekcje {
     font-size: 0.6em;
-    margin: -10vh 0 0 0;
+    margin: 2vh 0 0 0;
     color: gray;
   }
   .sekcje span {
@@ -151,38 +151,45 @@ if (this.clicker < this.level2){
   }
   .sekcje {
     font-size: 0.8em;
-    margin: -10vh 0 0 0 ;
+    margin: -8vh 0 0 0 ;
     color: gray;
     padding: 8vh 0 0 0;
     line-height: 1.2em;
 
   }
   .sekcje span {
-    font-size: 0.6em;
+    font-size: 0.4em;
   }
 }
 
 
-a {
+.arr, a {
   width: 11vh;
   height: 11vh;
   padding: 1vh 1vw;
   text-align: center;
-font-size: 1.9em;
-padding: 3vh 0;
+  font-size: 1.9em;
+  padding:0;
   background: #333;
   /* border-radius: 50%; */
 
   color: #666;
   transition: .5s;
+
 }
 
 
 
-a:hover {
+a:hover, .arr:hover {
 color: #ffee10;
 box-shadow: 0 0 5px #ffee10;
 text-shadow: 0 0 5px #ffee10;
+}
+
+.znik, .menuIcon {
+  width: 100%;
+  height: 100%;
+  padding: 3vh 0 ;
 }
 
 

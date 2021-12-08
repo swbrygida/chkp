@@ -8,7 +8,14 @@
   <i class="znik fas fa-angle-double-down" @click="dodaj"></i>
 </div>
   <div class="arr">
-  <div class="sekcje"><span>POZIOM</span> {{ktorypoziom}} <br>{{slajd}}/{{slajdy}}</div>
+  <div class="sekcje" @click="poziomy = !poziomy"><span>POZIOM</span> {{ktorypoziom}} <br>{{slajd}}/{{slajdy}}</div>
+  <div class="poziomy" v-if="poziomy">
+    <p @click="goTo1"><span>poziom</span> 1</p>
+    <p @click="goTo2"><span>poziom</span> 2</p>
+    <p @click="goTo3"><span>poziom</span> 3</p>
+
+  </div>
+
 </div>
 
   <div class="arr">
@@ -32,7 +39,8 @@ export default {
     return {
       ktorypoziom: 1,
       slajd: 1,
-      slajdy: 1
+      slajdy: 1,
+      poziomy: false
     }
   },
   mounted() {
@@ -41,6 +49,7 @@ export default {
     this.slajdy = ileslajdow;
   },
   methods: {
+
     dodaj() {
      gsap.to('.znik', 0.1, {opacity: 0, display: "none"});
      if (this.clicker < this.allSections) {
@@ -55,7 +64,7 @@ export default {
          gsap.to(loader1, { y: '-40%', opacity: 0, display: "none"});
          gsap.from(loader2, 1.6, {delay: 1.6, display: "block", y: '40%', opacity: 0, });
          gsap.to(loader2, 1.6, {delay: 0.6,  scrollTo: {y: -200} });
-         gsap.to(loader2, 1.6, {delay: 2.6,  display: "block",  backgroundColor: '#000', color: '#fff'});
+         gsap.to(loader2, 1.6, {delay: 2.6,   opacity: 1, y: "1%", display: "block",  backgroundColor: '#000', color: '#fff'});
 };
 if (this.clicker < this.level2){
   this.slajd = this.clicker;
@@ -87,7 +96,7 @@ gsap.from('.znik', 0.2, {delay: 3.6, opacity: 0, display: "block"});
 
       gsap.to(load, {y: '100%', opacity: 0, display: "none" });
       gsap.from(load2, 0.6, {delay: 0.6, display: "block", y: '-100%', opacity: 0, });
-      gsap.to(load2, 0.6, { delay: 1.6, display: "block",  y: '0', opacity: 1, backgroundColor: '#000', color: '#fff'});
+      gsap.to(load2, 0.6, { delay: 1.6,  opacity: 1, y: "1%", display: "block",  y: '0', opacity: 1, backgroundColor: '#000', color: '#fff'});
 };
 if (this.clicker < this.level2){
   this.slajd = this.clicker;
@@ -105,7 +114,74 @@ if (this.clicker < this.level2){
 
 
 
-  }
+},
+goTo1() {
+  gsap.to('.znik', 0.1, {opacity: 0, display: "none"});
+
+
+      let numberXS = this.clicker;
+      this.$emit('clicker', this.clicker = 1);
+      let numberX = this.clicker;
+      let numberPS = 'section:nth-child(' + numberXS + ')';
+      let numberPN = 'section:nth-child(' + numberX + ')';
+      let loader1 = document.querySelector(numberPS)
+      let loader2 = document.querySelector(numberPN)
+      gsap.to(loader1, { y: '-40%', opacity: 0, display: "none"});
+      gsap.from(loader2, 1.6, {delay: 1.6, display: "block", y: '40%', opacity: 0 });
+      gsap.to(loader2, 1.6, {delay: 0.6,  scrollTo: {y: -200} });
+      gsap.to(loader2, 1.6, {delay: 2.6,  opacity: 1, y: "1%", display: "block",  backgroundColor: '#000', color: '#fff'});
+      this.ktorypoziom = 1;
+      this.slajd = 1;
+      this.slajdy = this.level2 -1;
+      this.poziomy = false;
+      gsap.from('.znik', 0.2, {delay: 3.6, opacity: 0, display: "block"});
+
+},
+goTo2() {
+  gsap.to('.znik', 0.1, {opacity: 0, display: "none"});
+
+
+      let numberXS = this.clicker;
+      this.$emit('clicker', this.clicker = this.level2);
+      let numberX = this.clicker;
+      let numberPS = 'section:nth-child(' + numberXS + ')';
+      let numberPN = 'section:nth-child(' + numberX + ')';
+      let loader1 = document.querySelector(numberPS)
+      let loader2 = document.querySelector(numberPN)
+      gsap.to(loader1, { y: '-40%', opacity: 0, display: "none"});
+      gsap.from(loader2, 1.6, {delay: 1.6, display: "block", y: '40%', opacity: 0, });
+      gsap.to(loader2, 1.6, {delay: 0.6,  scrollTo: {y: -200} });
+      gsap.to(loader2, 1.6, {delay: 2.6,   opacity: 1, y: "1%", display: "block",  backgroundColor: '#000', color: '#fff'});
+      this.ktorypoziom = 2;
+      this.slajd = 1;
+      this.slajdy = this.level3 - this.level2;
+      this.poziomy = false;
+      gsap.from('.znik', 0.2, {delay: 3.6, opacity: 0, display: "block"});
+
+},
+goTo3() {
+  gsap.to('.znik', 0.1, {opacity: 0, display: "none"});
+
+
+      let numberXS = this.clicker;
+      this.$emit('clicker', this.clicker = this.level3);
+      let numberX = this.clicker;
+      let numberPS = 'section:nth-child(' + numberXS + ')';
+      let numberPN = 'section:nth-child(' + numberX + ')';
+      let loader1 = document.querySelector(numberPS)
+      let loader2 = document.querySelector(numberPN)
+      gsap.to(loader1, { y: '-40%', opacity: 0, display: "none"});
+      gsap.from(loader2, 1.6, {delay: 1.6, display: "block", y: '40%', opacity: 0, });
+      gsap.to(loader2, 1.6, {delay: 0.6,  scrollTo: {y: -200} });
+      gsap.to(loader2, 1.6, {delay: 2.6,  opacity: 1, y: "1%",  display: "block",  backgroundColor: '#000', color: '#fff'});
+      this.ktorypoziom = 3;
+      this.slajd = 1;
+      this.slajdy = this.allSections - this.level3 +1;
+      this.poziomy = false;
+      gsap.from('.znik', 0.2, {delay: 3.6, opacity: 0, display: "block"});
+
+}
+
 }
 }
 </script>
@@ -190,7 +266,32 @@ text-shadow: 0 0 5px #ffee10;
   width: 100%;
   height: 100%;
   padding: 3vh 0 ;
+  cursor: pointer;
 }
-
-
+.poziomy {
+  position: relative;
+  top: -21vh;
+  background-color: #333;
+  animation: poka 0.6s;
+}
+.poziomy p {
+  font-size: 0.8em!important;
+  line-height: 1em;
+  margin: 0;
+  padding: 0;
+  color: #666;
+}
+.poziomy p:hover {
+  color: #ffee10;
+  box-shadow: 0;
+  text-shadow: 0;
+  cursor: pointer;
+}
+.poziomy p span {
+  font-size: 0.4em;
+}
+@keyframes poka {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
 </style>
