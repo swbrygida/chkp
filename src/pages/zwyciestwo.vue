@@ -230,52 +230,52 @@ mounted() {
     },
     postac1 () {
       let obrazek = document.querySelector(".krzyzacy");
-      gsap.to(obrazek, 1.6, { scale: 5.5, x: 3000, y: 500});
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: "196vw", y: "55vh"});
 
     },
     postac2 () {
       let obrazek = document.querySelector(".krzyzacy")
-      gsap.to(obrazek, 1.6, { scale: 5.5, x: 3400, y: 400});
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: "216vw", y: "50vh"});
     },
     postac3 () {
       let obrazek = document.querySelector(".krzyzacy")
-      gsap.to(obrazek, 1.6, { scale: 5.5, x: 1800, y: 300});
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: "116vw", y: "42vh"});
     },
     postac4 () {
       let obrazek = document.querySelector(".krzyzacy")
-      gsap.to(obrazek, 1.6, { scale: 5.5, x: 2200, y: -300});
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: "143vw", y: "-32vh"});
     },
     postac5 () {
       let obrazek = document.querySelector(".krzyzacy")
-      gsap.to(obrazek, 1.6, { scale: 5.5, x: 200, y: -900});
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: "13vw", y: "-132vh"});
     },
     postac6 () {
       let obrazek = document.querySelector(".krzyzacy")
-      gsap.to(obrazek, 1.6, { scale: 5.5, x: 800, y: -1200});
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: "50vw", y: "-158vh"});
     },
     postac7 () {
       let obrazek = document.querySelector(".krzyzacy")
-      gsap.to(obrazek, 1.6, { scale: 5.5, x: -300, y: 500});
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: "-20vw", y: "58vh"});
     },
     postac8 () {
       let obrazek = document.querySelector(".krzyzacy")
-      gsap.to(obrazek, 1.6, { scale: 5.5, x: -1000, y: 500});
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: "-62vw", y: "62vh"});
     },
     postac9 () {
       let obrazek = document.querySelector(".krzyzacy")
-      gsap.to(obrazek, 1.6, { scale: 5.5, x: -1600, y: -300});
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: "-102vw", y: "-42vh"});
     },
     postac10 () {
       let obrazek = document.querySelector(".krzyzacy")
-      gsap.to(obrazek, 1.6, { scale: 5.5, x: -2000, y: 500});
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: "-122vw", y: "52vh"});
     },
     postac11 () {
       let obrazek = document.querySelector(".krzyzacy")
-      gsap.to(obrazek, 1.6, { scale: 5.5, x: -3300, y: -400});
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: "-212vw", y: "-52vh"});
     },
     postac12 () {
       let obrazek = document.querySelector(".krzyzacy")
-      gsap.to(obrazek, 1.6, { scale: 5.5, x: -3600, y: 400});
+      gsap.to(obrazek, 1.6, { scale: 5.5, x: "-232vw", y: "52vh"});
     },
   }
 }
