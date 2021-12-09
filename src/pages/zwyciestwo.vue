@@ -245,7 +245,7 @@ mounted() {
       level2: 2,
       level3: 4,
       postac: 0,
-      opis: 1
+      opis: 0
     }
   },
   methods: {
