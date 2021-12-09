@@ -282,7 +282,9 @@
   z-index: 1000000;
   display: block;
 }
-
+.brygida_logo {
+  cursor: pointer;
+}
 
 
 :root {

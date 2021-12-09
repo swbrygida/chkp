@@ -4,6 +4,9 @@
       <h3>
         Obraz Jana Matejki „Bitwa pod&nbsp;Grunwaldem”
       </h3>
+
+
+
   <div class="figure">
   <img class="krzyzacy" src="../assets/fotosy/Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg" alt="" />
   </div>
@@ -24,6 +27,27 @@
     <li @click="postac12">12</li>
 
   </ul>
+
+  <ul class="postaciOpisy">
+  <li v-if="opis==1">Kazimierz V (1380 – 1435)<br> – Książe szczeciński z&nbsp;pomorskiej dynastii Gryfitów, sojusznik Krzyżaków w&nbsp;Bitwie pod&nbsp;Grunwaldem. Wzięty do&nbsp;niewoli przez&nbsp;Jakuba Skarbka. Uwolniony w&nbsp;1411 roku.</li>
+  <li v-if="opis==2">Jakub Skarbek z&nbsp;Góry h. Abdank (ur.? – 1438)<br> – rycerz polski, możnowładca, dyplomata, służący przez&nbsp;wiele lat na&nbsp;dworze króla Węgier. Podczas bitwy strzegł chorągwi królewskiej wraz z&nbsp;oddziałem 8 najlepszych rycerzy. Po&nbsp;bitwie wypełniał ważne misje dyplomatyczne dla króla Władysława Jagiełły. </li>
+  <li v-if="opis==3">Urlich von Jungingen (1360 – 1410)<br> – Wielki Mistrz Zakonu Krzyżackiego, w&nbsp;bitwie pod&nbsp;Grunwaldem dowodził całością wojsk krzyżackich, poległ w&nbsp;bitwie.</li>
+  <li v-if="opis==4">Werner von Tettingen (1350 – 1413)<br> – Wielki Szpitalnik Zakonu i&nbsp;Komtur Elbląga pochodzący ze&nbsp;Szwajcarii. Podczas bitwy odpowiadał za&nbsp;opiekę sanitarną całej krzyżackiej armii i&nbsp;dowodził Chorągwią Komturii Elbląskiej. Zbiegł z&nbsp;pola bitwy, schronił się w&nbsp;Elblągu a&nbsp;następnie wziął udział w&nbsp;obronie Malborka. </li>
+  <li v-if="opis==5">Konrad VII Biały (1390 – 1492)<br> – Książe z&nbsp;dynastii Piastów śląskich, w&nbsp;bitwie pod&nbsp;Grunwaldem walczył po&nbsp;stronie Zakonu Krzyżackiego. Dostał się do&nbsp;niewoli, uwolniony przez&nbsp;króla Władysława Jagiełłę zaraz po&nbsp;bitwie.</li>
+  <li v-if="opis==6">Konrad von Lichtenstein (1360 -1410)<br> – Wielki Komtur Malbork od&nbsp;1404 roku w&nbsp;czasie bitwy dowodził chorągwią Wielkiej Komturii wystawioną przez&nbsp;miasto Sztum. Poległ w&nbsp;bitwie.</li>
+  <li v-if="opis==7">Witold Kiejstutowicz – Wielki Książe Litewski,<br> brat stryjeczny króla Władysława Jagiełły, w&nbsp;bitwie dowodził wojskami litewsko – ruskimi, tatarskimi i&nbsp;mołdawskimi. </li>
+  <li v-if="opis==8">Marcin z&nbsp;Wrocimowic h. Półkozic (ur. ? – 1442)<br> – polski rycerz, chorąży krakowski, podczas bitwy niósł Wielką Chorągiew Królestwa Polskiego. Po&nbsp;bitwie służył królowi Władysławowi Jagielle jako dyplomata. </li>
+  <li v-if="opis==9">Jan Żiżka z&nbsp;Trocnowa (1370 – 1424)<br> – czeski bohater narodowy, wybitny strateg wojskowy, w&nbsp;bitwie służył jako najemnik w&nbsp;oddziale Jan Sokola z&nbsp;Lamberka i&nbsp;walczył po&nbsp;stronie polsko – litewskiej. Po&nbsp;bitwie brał czynny udział w&nbsp;wojnach husyckich jako przywódca Taborytów. Genialny dowódca który&nbsp;nie&nbsp;przegrał żadnej bitwy. </li>
+  <li v-if="opis==10">Zawisza Czarny z&nbsp;Garbowa h. Sulima (1380 – 1428)<br> – najsłynniejszy polski rycerz epoki średniowiecza, związany z&nbsp;dworem króla Węgier a&nbsp;następnie z&nbsp;dworem Polski. Brał udział w&nbsp;licznych wyprawach wojennych. Sławił się pokonaniem podczas turnieju we&nbsp;Francji najsłynniejszego rycerza swoich czasu Jana z&nbsp;Aragonii. Po&nbsp;bitwie wypełniał wiele ważnych misji politycznych dla króla Władysława Jagiełły. Zginął podczas wyprawy węgierskiej przeciwko Turkom w&nbsp;1428 roku.</li>
+  <li v-if="opis==11">Markward von Salzbach (ur. ? – 1410)<br> – Komtur Brandenburga, wysłannik Wielkiego Mistrza Zakonu Krzyżackiego na&nbsp;negocjacje z&nbsp;księciem Witoldem przed&nbsp;wielką wojną polsko – krzyżacką. Podczas bitwy wzięty do&nbsp;niewoli i&nbsp;ścięty na&nbsp;rozkaz Witolda. </li>
+  <li v-if="opis==12">Heinrich von Plauen (1370 – 1429)<br> – Komtur Świecia, nie&nbsp;brał udziału w&nbsp;bitwie pod&nbsp;Grunwaldem. Dowodził obroną Malborka, podczas oblężenia polsko-litewskiego, po&nbsp;jego odparciu został obrany Wielkim Mistrzem Zakonu Krzyżackiego.</li>
+</ul>
+
+
+
+
+
+
 
 </div>
   <ul class="postaciMobile">
@@ -220,62 +244,75 @@ mounted() {
       allSections: 25,
       level2: 2,
       level3: 4,
-      postac: 0
+      postac: 0,
+      opis: 1
     }
   },
   methods: {
     postac0 () {
       let obrazek = document.querySelector(".krzyzacy")
       gsap.to(obrazek, 1.6, { scale: 1, x: 0, y: 0});
+      this.opis = 0;
     },
     postac1 () {
       let obrazek = document.querySelector(".krzyzacy");
       gsap.to(obrazek, 1.6, { scale: 5.5, x: "196vw", y: "55vh"});
-
+      this.opis = 1;
     },
     postac2 () {
       let obrazek = document.querySelector(".krzyzacy")
       gsap.to(obrazek, 1.6, { scale: 5.5, x: "216vw", y: "50vh"});
+      this.opis = 2;
     },
     postac3 () {
       let obrazek = document.querySelector(".krzyzacy")
       gsap.to(obrazek, 1.6, { scale: 5.5, x: "116vw", y: "42vh"});
+      this.opis = 3;
     },
     postac4 () {
       let obrazek = document.querySelector(".krzyzacy")
       gsap.to(obrazek, 1.6, { scale: 5.5, x: "143vw", y: "-32vh"});
+      this.opis = 4;
     },
     postac5 () {
       let obrazek = document.querySelector(".krzyzacy")
       gsap.to(obrazek, 1.6, { scale: 5.5, x: "13vw", y: "-132vh"});
+      this.opis = 5;
     },
     postac6 () {
       let obrazek = document.querySelector(".krzyzacy")
       gsap.to(obrazek, 1.6, { scale: 5.5, x: "50vw", y: "-158vh"});
+      this.opis = 6;
     },
     postac7 () {
       let obrazek = document.querySelector(".krzyzacy")
       gsap.to(obrazek, 1.6, { scale: 5.5, x: "-20vw", y: "58vh"});
+      this.opis = 7;
     },
     postac8 () {
       let obrazek = document.querySelector(".krzyzacy")
       gsap.to(obrazek, 1.6, { scale: 5.5, x: "-62vw", y: "62vh"});
+      this.opis = 8;
     },
     postac9 () {
       let obrazek = document.querySelector(".krzyzacy")
       gsap.to(obrazek, 1.6, { scale: 5.5, x: "-102vw", y: "-42vh"});
+      this.opis = 9;
     },
     postac10 () {
       let obrazek = document.querySelector(".krzyzacy")
       gsap.to(obrazek, 1.6, { scale: 5.5, x: "-122vw", y: "52vh"});
+      this.opis = 10;
     },
     postac11 () {
       let obrazek = document.querySelector(".krzyzacy")
       gsap.to(obrazek, 1.6, { scale: 5.5, x: "-212vw", y: "-52vh"});
+      this.opis = 11;
     },
     postac12 () {
       let obrazek = document.querySelector(".krzyzacy")
       gsap.to(obrazek, 1.6, { scale: 5.5, x: "-232vw", y: "52vh"});
+      this.opis = 12;
     },
   }
 }
@@ -283,8 +320,9 @@ mounted() {
 </script>
 <style scoped>
 @media screen  and (orientation: landscape) {
+
   .postaciMobile {
-    /* display: none; */
+    display: none;
   }
   .postaciMobile li {
     list-style: none;
@@ -309,6 +347,8 @@ mounted() {
     display: flex;
     flex-wrap: wrap;
     background-color: #333;
+    z-index: 1144;
+    position: absolute;
 
   }
   .postacie li {
@@ -327,6 +367,20 @@ mounted() {
   }
   li.reset {
     width: 6vw;
+  }
+  .postaciOpisy {
+    display: block;
+    position: relative;
+    top: -70vh;
+    left: 44vw;
+    z-index: 44;
+    max-width: 38vw;
+    font-size: 1.6vw;
+    text-shadow: 1px 1px 2px black;
+    height: auto;
+  }
+  .postaciOpisy li {
+    list-style: none;
   }
 
 
