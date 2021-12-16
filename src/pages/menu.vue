@@ -22,7 +22,7 @@
         </div></g-link>
         <h2 class="title" data-cta="i zwycięstwo w bitwie pod Grunwaldem →">Król Władysław Jagiełło</h2>
       </div>
-      <div class="promo" style="--overlay-color: orange"  @click="model">
+      <div class="promo" style="--overlay-color: orange">
         <g-link to="/model/">
         <div class="image-wrapper ruch" >
           <g-image src="~/assets/fotosy/model.png" width="500"/>
