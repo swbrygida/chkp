@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "gridsome": "^0.7.0",
-    "gsap": "^3.8.0"
+    "gsap": "^3.8.0",
+    "three": "^0.135.0"
   }
 }
