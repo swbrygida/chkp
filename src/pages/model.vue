@@ -45,6 +45,8 @@ export default {
     removeChild() {
       let model = document.getElementsByClassName("model");
       gsap.to(model, 0.6, { opacity: 0, display: "none"});
+      let modelWired = document.getElementsByClassName("modelWired");
+      gsap.to(modelWired, 0.6, { opacity: 0, display: "none"});
     },
     wired() {
 
