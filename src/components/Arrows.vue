@@ -4,8 +4,13 @@
 
 
 
+
+
+
   <div class="arr">
   <i class="znik fas fa-angle-double-down" @click="dodaj"></i>
+  <!-- <span>{{pokaNr}}</span> -->
+
 </div>
   <div class="arr">
   <div class="sekcje" @click="poziomy = !poziomy"><span>POZIOM</span> {{ktorypoziom}} <br>{{slajd}}/{{slajdy}}</div>
@@ -22,7 +27,7 @@
   <i class="znik fas fa-angle-double-up" @click="odejmij"></i>
 </div>
 <a href="/menu/">
-<i class="menuIcon fas fa-solid fa-bars"></i>
+<i class="menuIcon fas fa-solid fa-bars" ></i>
 </a>
 
 
@@ -40,16 +45,37 @@ export default {
       ktorypoziom: 1,
       slajd: 1,
       slajdy: 1,
-      poziomy: false
+      poziomy: false,
+      pokaNr: 0
+
     }
   },
+
   mounted() {
 
     let ileslajdow = this.level2 - 1;
     this.slajdy = ileslajdow;
+
+
+    let nr = Math.floor((Math.random() * 13) + 1);
+
+
+    const a = document.createElement('div');
+    nr < 10 ? nr = "0" + nr : nr = nr;
+    // a.innerHTML = `<audio loop autoplay id="audioTlo" data-key="${nr}" src="../assets/music/z${nr}.mp3"></audio>`;
+    a.innerHTML = `<audio loop id="audioTlo" data-key="${nr}" src="../music/z${nr}.mp3"></audio>`;
+    // document.body.appendChild(a);
+    const app = document.getElementById("app");
+    app.append(a);
+
+    const audio2 = document.getElementById("audioTlo");
+    audio2.src = `../music/z${nr}.mp3`;
+    audio2.load();
+    audio2.currentTime = 0;
+    audio2.play();
+
   },
   methods: {
-
     dodaj() {
      gsap.to('.znik', 0.1, {opacity: 0, display: "none"});
      if (this.clicker < this.allSections) {
