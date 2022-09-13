@@ -12,9 +12,7 @@
     <button class="pleyki" v-if="!gra" @click="play2"><g-image alt="play" src="~/assets/play1.svg"  /></button>
     <button class="pleyki" v-if="gra" @click="pause"><g-image alt="pause" src="~/assets/pause1.svg"  /></button>
 
-  <p class="time">{{ currentTime }}</p>
-  <!-- <p class="time">{{ currentTime }}<span>({{numer}} / 74):</span></p> -->
-
+  <p>{{ currentTime }}</p>
 
           <button class="pleyki"  @click="nextTrack"><g-image alt="nextTrack" src="~/assets/next1.svg"  /></button>
 
@@ -29,7 +27,7 @@
           <code>audio</code> element.
         </audio>
         <!-- <p>{{ durationCalak }}</p> -->
-          </div>
+        </div>
         <div class="playerGora">
 
 
@@ -43,8 +41,7 @@
                 v-model="seekValue"
                 @change="onSeek"
               />
-              <span class="ktoryZ">({{numer}} / 74):</span>
-              <h2 >{{ title }} </h2>
+              <h2 >{{ title }}</h2>
               </div>
         <div>
           <!-- <i class="pleyki fa-solid fa-circle-play" v-if="!gra" @click="play2" ></i>
@@ -94,7 +91,7 @@
         allSections: 1,
         level2: 2,
         level3: 2,
-        currentTime: '0 : 00',
+        currentTime: '0:00',
         seekValue: 0,
         durationCalak: '0:00',
         title: 'Proroctwo, przepowiednia św Brygidy',
@@ -178,7 +175,7 @@
           {nr: 71, tytul: 'Rektorzy kościoła ks Czerwiński', src: 'music/7.12.Rektorzy kościoła ks Czerwiński.mp3', img: 'music/a3.png'},
           {nr: 72, tytul: 'Rektorzy kościoła ks Przytuła', src: 'music/7.13.Rektorzy kościoła ks Przytuła.mp3', img: 'music/a3.png'},
           {nr: 73, tytul: 'Rektorzy kościoła ks Bondyra', src: 'music/7.14.Rektorzy kościoła ks Bondyra.mp3', img: 'music/a3.png'},
-          {nr: 74, tytul: 'Księża związani z Kościołem', src: 'music/7.15.Rektorzy kościoła księża związani z Kościołem.mp3', img: 'music/a3.png'}
+          {nr: 74, tytul: 'Rektorzy kościoła księża związani z Kościołem', src: 'music/7.15.Rektorzy kościoła księża związani z Kościołem.mp3', img: 'music/a3.png'}
 
 
 
@@ -224,6 +221,10 @@
           audio.play();
         }, 100);
         this.gra = true;
+        let secondsAll = Math.round(audio.duration % 59);
+        let secondsAllShow = secondsAll < 10 ? secondsAllShow = "0" + secondsAll : secondsAllShow = secondsAll;
+        let minutesAll = Math.floor(audio.duration / 59);
+        this.durationCalak = minutesAll + ':' + secondsAllShow;
         this.numer = this.numer + 1 ;
 
 
@@ -237,19 +238,27 @@
         this.numer = numer;
         this.src = this.lista[numer].src;
         this.title = this.lista[numer].tytul;
+        // this.currentTime = '0:00';
+        // this.seekValue = 0;
         setTimeout(function() {
           const audio = document.getElementById('audio');
           audio.play();
         }, 100);
         this.gra = true;
-
+        let secondsAll = Math.round(audio.duration % 59);
+        let secondsAllShow = secondsAll < 10 ? secondsAllShow = "0" + secondsAll : secondsAllShow = secondsAll;
+        let minutesAll = Math.floor(audio.duration / 59);
+        this.durationCalak = minutesAll + ':' + secondsAllShow;
 
 
       },
       play2() {
         this.$refs.audioPlayer.play();
         this.gra = true;
-
+        let secondsAll = Math.round(this.$refs.audioPlayer.duration % 59);
+        let secondsAllShow = secondsAll < 10 ? secondsAllShow = "0" + secondsAll : secondsAllShow = secondsAll;
+        let minutesAll = Math.floor(this.$refs.audioPlayer.duration / 59);
+        this.durationCalak = minutesAll + ':' + secondsAllShow;
 
 
       },
@@ -258,21 +267,16 @@
         this.gra = false;
       },
       onPlaying() {
-        // const { audioPlayer } = this.$refs;
-        // if (!audioPlayer) {
-        //   return;
-        // }
-        const audio = document.getElementById('audio');
-        let secondsNow = Math.round(audio.currentTime % 59);
-        let minutesNow = Math.floor(audio.currentTime / 59);
-        let secondsNowShow;
-        if (secondsNow < 10) {
-          secondsNowShow = "0" + secondsNow;
-        } else {
-          secondsNowShow = secondsNow;
-        };
-        this.currentTime = minutesNow + ' : ' + secondsNowShow ;
-        this.seekValue = (audio.currentTime / audio.duration) * 100;
+        const { audioPlayer } = this.$refs;
+        if (!audioPlayer) {
+          return;
+        }
+        let secondsNow = Math.round(audioPlayer.currentTime % 59);
+        let secondsNowShow = secondsNow < 10 ? secondsNowShow = "0" + secondsNow : secondsNowShow = secondsNow;
+        let minutesNow = Math.floor(audioPlayer.currentTime / 59);
+
+        this.currentTime = minutesNow + ':' + secondsNowShow ;
+        this.seekValue = (audioPlayer.currentTime / audioPlayer.duration) * 100;
       },
       onSeek() {
         const { audioPlayer } = this.$refs;
@@ -308,13 +312,6 @@
   h2, h3 {
     color:#fff;
   }
-.time span {
-    font-size: small;
-    line-height: 1em;
-  }
-  .ktoryZ {
-    font-size: small;
-  }
   .sciezka {
     width: 100%;
   }
@@ -326,8 +323,6 @@
   width: 6em;
   text-align: center;
   height: auto;
-  display: flex;
-  flex-direction: column;
 }
 .czasownik {
   display: flex;
