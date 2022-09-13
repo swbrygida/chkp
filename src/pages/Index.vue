@@ -68,6 +68,13 @@
         <h2 class="title" data-cta="oraz kapłani związani z kościołem →">Rektorzy</h2>
       </div>
       <div class="promo" style="--overlay-color: yellowgreen">
+        <g-link to="/audio">
+        <div class="image-wrapper ruch" >
+          <g-image src="~/assets/sluchaj3.jpg" width="500"/>
+          </div></g-link>
+        <h2 class="title" data-cta="- czytane głosem lektora →">Posłuchaj</h2>
+      </div>
+      <div class="promo" style="--overlay-color: yellowgreen">
         <g-link to="/info/">
         <div class="image-wrapper ruch" >
           <g-image src="~/assets/fotosy/info.png" width="500"/>
