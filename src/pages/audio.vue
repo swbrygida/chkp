@@ -379,7 +379,11 @@
 svg {
   fill: #666666;
 }
-.pleyki:hover > svg > .svgFill{
+.svgFil {
+  fill: #666666;
+}
+
+.pleyki:hover > svg .svgFill{
   fill: #ffee10;
 }
 
